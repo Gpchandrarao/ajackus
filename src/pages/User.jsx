@@ -1,9 +1,10 @@
 import React from "react";
+import UserManagement from "../components/UserManagement";
 
 const User = () => {
   return (
     <div>
-      <h1></h1>User
+      <UserManagement />
     </div>
   );
 };

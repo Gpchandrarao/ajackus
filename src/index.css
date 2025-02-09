@@ -7,3 +7,59 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+/* .container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+} */
+
+/* .error {
+  color: red;
+} */
+
+/* .user-form {
+  margin-bottom: 20px;
+} */
+
+/* .user-form input {
+  margin: 5px;
+  padding: 8px;
+  width: 200px;
+} */
+
+/* .user-form button {
+  padding: 8px 15px;
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+} */
+
+/* .user-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table th,
+.user-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+} */
+
+/* .edit-btn {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-right: 5px;
+} */
+
+.delete-btn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
